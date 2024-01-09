@@ -1,8 +1,13 @@
 # Project: Eyes 
 
+Do you ever get that feeling that someone is watching? Well this webpage might be to blame! A fun webpage where your every moved is....tracked.
+
 # How-To Run
+This is a basic html script. Simply clone down the git repository and open the `index.html` in your internet browser.
 
 # Roadmap
+Some future improvements I would like to make:
+* Allow user to define the number of eyes
 
 # License
 MIT License
